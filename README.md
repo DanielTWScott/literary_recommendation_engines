@@ -1,4 +1,4 @@
-# Literary Web Scraping
+# Literary Recommendation Engines
 ## Repository of tools to scrape literary data & build recommendation engines
 This repository contains tools build in Python to recommend books / other texts to readers, based on assessment of similarity between texts which have been web scraped.
 ### Installation & Usage Instructions for End-Users
